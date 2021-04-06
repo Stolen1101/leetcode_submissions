@@ -4,4 +4,3 @@ class Solution:
         n = n[::-1] #Reverse string of bits
         n = int(n, base = 2) #return to integer
         return n
-        
