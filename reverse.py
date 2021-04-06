@@ -1,4 +1,4 @@
-Class Solution:
+class Solution:
     def reverse(self, x: int) -> int:
         x = str(x)
         "We only need one variable for this easy question, lets turn it into a string since we are doing symbolic swaps"
