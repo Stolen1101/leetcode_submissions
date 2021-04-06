@@ -1,9 +1,4 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-class Solution:
+Class Solution:
     def reverse(self, x: int) -> int:
         x = str(x)
         "We only need one variable for this easy question, lets turn it into a string since we are doing symbolic swaps"
@@ -21,5 +16,3 @@ class Solution:
             """Double check it is actually an integer, and return nothing if not"""
             return 0
         return x
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
